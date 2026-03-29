@@ -1,4 +1,6 @@
 # EXPERIMENT4: IMAGE-TRANSFORMATIONS
+# NAME : VIRUMAA HARISH M
+# REG NO: 212223230246
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
